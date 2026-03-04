@@ -1,0 +1,16 @@
+{
+  "name": "@fieldflow/brand",
+  "version": "1.0.0",
+  "description": "Shared brand assets and design tokens for FieldFlow Labs products",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": ["src/"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewskinner/fieldflow-brand.git"
+  }
+}

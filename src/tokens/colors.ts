@@ -1,0 +1,19 @@
+export const colors = {
+  accent:      '#2563eb',
+  accentHover: '#1d4ed8',
+  accentGlow:  'rgba(37,99,235,0.35)',
+  950: '#09090b',
+  900: '#18181b',
+  800: '#27272a',
+  700: '#3f3f46',
+  600: '#52525b',
+  500: '#71717a',
+  400: '#a1a1aa',
+  300: '#d4d4d8',
+  200: '#e5e7eb',
+  100: '#f4f4f5',
+  50:  '#fafafa',
+  0:   '#ffffff',
+} as const
+
+export type ColorKey = keyof typeof colors

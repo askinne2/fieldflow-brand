@@ -1,0 +1,21 @@
+/* @fieldflow/brand — shared color tokens */
+/* Do not edit directly — source of truth for all FieldFlow Labs products */
+
+:root {
+  --fl-accent:       #2563eb;
+  --fl-accent-hover: #1d4ed8;
+  --fl-accent-glow:  rgba(37,99,235,0.35);
+
+  --fl-950: #09090b;
+  --fl-900: #18181b;
+  --fl-800: #27272a;
+  --fl-700: #3f3f46;
+  --fl-600: #52525b;
+  --fl-500: #71717a;
+  --fl-400: #a1a1aa;
+  --fl-300: #d4d4d8;
+  --fl-200: #e5e7eb;
+  --fl-100: #f4f4f5;
+  --fl-50:  #fafafa;
+  --fl-0:   #ffffff;
+}
