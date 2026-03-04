@@ -1,5 +1,5 @@
 {
-  "name": "@fieldflow/brand",
+  "name": "@askinne2/brand",
   "version": "1.0.0",
   "description": "Shared brand assets and design tokens for FieldFlow Labs products",
   "main": "src/index.js",
