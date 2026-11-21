@@ -1,6 +1,6 @@
 {
   "name": "@askinne2/brand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared brand assets and design tokens for FieldFlow Labs products",
   "main": "src/index.js",
   "types": "src/index.d.ts",
